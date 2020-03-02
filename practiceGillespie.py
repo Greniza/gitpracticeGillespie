@@ -1,6 +1,5 @@
 # Partner A: Peter Gillepsie
 # Partner B: Andy Hou
-# extra line added
 
 
 def getNRandom(n):
