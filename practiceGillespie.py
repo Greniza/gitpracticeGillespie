@@ -1,6 +1,10 @@
 # Partner A: Peter Gillepsie
 # Partner B: Andy Hou
+<<<<<<< HEAD
 #############
+=======
+
+>>>>>>> 4c88c02f5addbfbfcfc04ae8dc507e1ca92d9745
 
 def getNRandom(n):
     '''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
